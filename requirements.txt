@@ -10,3 +10,5 @@ pyopenssl
 jinja2==2.8
 shade
 pycrypto
+
+ansible>=2.10.0 # not directly required, pinned by Snyk to avoid a vulnerability

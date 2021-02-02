@@ -7,6 +7,6 @@ boto3
 apache-libcloud
 six
 pyopenssl
-jinja2==2.8
+jinja2==2.11.3
 shade
 pycrypto

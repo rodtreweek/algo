@@ -1,12 +1,4 @@
-setuptools>=11.3
-SecretStorage < 3
-ansible[azure]==2.4.3
-dopy==0.3.5
-boto>=2.5
-boto3
-apache-libcloud
-six
-pyopenssl
-jinja2==2.8
-shade
-pycrypto
+ansible-core==2.12.3
+ansible==5.0.1
+jinja2~=3.0.3
+netaddr
